@@ -60,14 +60,14 @@ const About = () => {
           
           <h3 className='about2 lg:h3 mb-4'>Wiring Harness Design Specialist</h3>
 
-          <p className='mb-6'>An Engineering professional with almost 8 years of OEM product development experience in E&E vehicle architecture 
+          <p className='mb-6'>An Engineering professional with almost 9 years of OEM product development experience in E&E vehicle architecture 
           and Wiring harness development. And a Certified Scrum Master with 3 years of practice.</p>
           <div className='flex  gap-x-6 lg:gap-x-10 mb-12'>
             <div className=''>
               <div className='text-[40px] font-tertiary text-gradient mb-2'>
 
                 {/* {inView?<CountUp start={0} end={8} duration={3} />:null}+ */}
-                8+
+                9+
                 
               </div>
               <div className='font-primary text-sm tracking-[2px]'>
@@ -79,7 +79,7 @@ const About = () => {
             <div>
               <div className='text-[40px] font-tertiary text-gradient mb-2'>
 
-                {/* {inView?<CountUp start={0} end={8} duration={3} />:null}+ */}8+
+                {/* {inView?<CountUp start={0} end={8} duration={3} />:null}+ */}10+
                 
               </div>
               <div className='font-primary text-sm tracking-[2px]'>
