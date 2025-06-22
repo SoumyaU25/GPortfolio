@@ -65,7 +65,7 @@ const Banner = () => {
            viewport={{once:false, amount: 0.7}} 
 
            className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'>
-            <a href="https://drive.google.com/file/d/1LGX7MAbwcFqA7TU9H38SxhvnUUn7bBFs/view?usp=drivesdk"><button className='btn btn-lg'>Get Resume</button></a>
+            <a href="https://drive.google.com/file/d/1pMeUgJhwCv_jTXZ9HGvtIvy8ETllQCO1/view?usp=drivesdk"><button className='btn btn-lg'>Get Resume</button></a>
             <a href=" " className='text-gradient btn-link'>
               My Portfolio
               </a>
