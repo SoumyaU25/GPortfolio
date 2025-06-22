@@ -76,7 +76,7 @@ const Banner = () => {
            initial='hidden' whileInView={'show'} 
            viewport={{once:false, amount: 0.7}} 
            className='flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0'>
-            <a href="https://www.linkedin.com/in/upadhyay0707?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+            <a href="https://www.linkedin.com/in/b4ugk?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
               <FaLinkedin/>
             </a>
             <a href="https://x.com/b4ugk77">
